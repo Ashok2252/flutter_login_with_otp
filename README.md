@@ -26,7 +26,7 @@
 Simply open your Flutter project in VS Code and navigate to the android folder in Terminal 
 And Type
 
-.\gradlew signingReport
+# .\gradlew signingReport
 
 17. After some sort of time it will show all the key fields and from ther copy the SHA-1 key.
 18. Paste it in the firebase console opened in web & click next

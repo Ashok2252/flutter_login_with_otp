@@ -49,7 +49,7 @@ Few More Steps Only
 
 If any error occured just check once your pubspec.yaml file with mine 
 
-#### I have wasted almost 2-3 days in this.Hope so someone can get benefit of this.
+#### I have wasted almost 2-3 days in this.Hope so someone can get benefit out of this :)
 
 # Screeshots
 

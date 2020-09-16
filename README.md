@@ -28,7 +28,7 @@ And Type
 
 # .\gradlew signingReport
 
-17. After some sort of time it will show all the key fields and from ther copy the SHA-1 key.
+17. After some sort of time it will show all the key fields and from there copy the SHA-1 key.
 18. Paste it in the firebase console opened in web & click next
 19. Download the JSON File & store it in the >>Your_Flutter_Project>>android>>app
 20. Store it in the App Folder there will be an JSON File already while cloning this repository replace it with your's

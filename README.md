@@ -51,6 +51,8 @@ If any error occured just check once your pubspec.yaml file with mine
 
 #### I have wasted almost 2-3 days in this.Hope so someone can get benefit out of this :)
 
+While Entering the mobile Number Add your Country Code for Ex: +91your_mobile_number
+
 # Screeshots
 
 ![20200917_011000](https://user-images.githubusercontent.com/61847405/93384663-c606e900-f882-11ea-877e-0774626ef62d.jpg)
